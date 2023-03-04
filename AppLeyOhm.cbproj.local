@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/03 13:17:39.000.354,=C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/03/03 13:17:42.000.257,=C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/03/03 13:39:23.000.721,C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Proyectos C++ Builder\AppLeyOhm\Unit1.dfm</Transaction>
+    <Transaction>2023/03/03 13:39:23.000.701,C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Proyectos C++ Builder\AppLeyOhm\Unit1.cpp</Transaction>
+    <Transaction>2023/03/03 13:39:23.000.721,C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Proyectos C++ Builder\AppLeyOhm\Unit1.h</Transaction>
+    <Transaction>2023/03/03 13:39:27.000.849,C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Proyectos C++ Builder\AppLeyOhm\Project1PCH1.h</Transaction>
+    <Transaction>2023/03/03 13:39:30.000.500,C:\Users\Elvis D Quinteros S\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Proyectos C++ Builder\AppLeyOhm\Project1.cbproj</Transaction>
+    <Transaction>2023/03/03 14:57:16.000.568,D:\Proyectos C++ Builder\AppLeyOhm\Project1.cbproj=D:\Proyectos C++ Builder\AppLeyOhm\AppLeyOhm.cbproj</Transaction>
+    <Transaction>2023/03/03 14:57:16.000.376,D:\Proyectos C++ Builder\AppLeyOhm\Project1PCH1.h=D:\Proyectos C++ Builder\AppLeyOhm\AppLeyOhmPCH1.h</Transaction>
+    <Transaction>2023/03/03 14:59:32.000.098,=D:\Proyectos C++ Builder\AppLeyOhm\Unit2.cpp</Transaction>
+    <Transaction>2023/03/03 15:14:22.000.475,D:\Proyectos C++ Builder\AppLeyOhm\Unit2.h=D:\Proyectos C++ Builder\AppLeyOhm\Conversor.h</Transaction>
+    <Transaction>2023/03/03 15:14:22.000.475,D:\Proyectos C++ Builder\AppLeyOhm\Unit2.cpp=D:\Proyectos C++ Builder\AppLeyOhm\Conversor.cpp</Transaction>
+    <Transaction>2023/03/03 16:13:07.000.984,D:\Proyectos C++ Builder\AppLeyOhm\Unit1.cpp=D:\Proyectos C++ Builder\AppLeyOhm\GUI.cpp</Transaction>
+    <Transaction>2023/03/03 16:13:08.000.001,D:\Proyectos C++ Builder\AppLeyOhm\Unit1.dfm=D:\Proyectos C++ Builder\AppLeyOhm\GUI.dfm</Transaction>
+    <Transaction>2023/03/03 16:13:08.000.001,D:\Proyectos C++ Builder\AppLeyOhm\Unit1.h=D:\Proyectos C++ Builder\AppLeyOhm\GUI.h</Transaction>
+  </Transactions>
+</BorlandProject>
